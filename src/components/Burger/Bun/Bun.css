@@ -1,0 +1,15 @@
+.upper_bun {
+    width: 80%;
+    margin-left: 10%;
+    height: 10vh;
+    background-color: palegoldenrod;
+    border-radius: 50px 50px 5px 5px;
+}
+
+.lower_bun {
+    width: 80%;
+    margin-left: 10%;
+    height: 10vh;
+    background-color: palegoldenrod;
+    border-radius: 5px 5px 50px 50px;
+}

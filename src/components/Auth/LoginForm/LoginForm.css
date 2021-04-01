@@ -1,0 +1,18 @@
+.login-form {
+    background-color: rgb(124, 0, 0, .03);
+    padding-top: calc(50vh - 20vh);
+}
+.login-form .lform {
+    width: 40%;
+    height: 55%;
+    background-color: #fff;
+}
+.login-form .lform .form-control, .btn {
+    border: 0;
+    background-color: rgb(124, 0, 0, .03);
+    border-bottom: 1px solid #FAEC78;
+    transition: .5s;
+}
+.login-form .lform .links {
+    color: #FAEC78;
+}

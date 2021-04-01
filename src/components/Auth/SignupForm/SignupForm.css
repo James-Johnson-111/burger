@@ -1,0 +1,17 @@
+.signup-form {
+    background-color: rgb(124, 0, 0, .03);
+    padding-top: calc(50vh - 30vh);
+}
+.signup-form .sform {
+    width: 40%;
+    height: 65%;
+    background-color: #fff;
+}
+.signup-form .sform .form-control, .btn {
+    border: 0;
+    background-color: #FAEC78;
+    color: #000;
+}
+.signup-form .sform .links {
+    color: #FAEC78;
+}

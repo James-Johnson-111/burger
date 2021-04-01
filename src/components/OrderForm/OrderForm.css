@@ -1,0 +1,17 @@
+.order-form {
+    background-color: rgb(124, 0, 0, .03);
+    padding-top: calc(50vh - 25vh);
+}
+.order-form .oform {
+    width: 40%;
+    height: min-content;
+    background-color: #fff;
+}
+.order-form .oform .form-control, .btn {
+    border: 0;
+    background-color: rgb(124, 0, 0, .03);
+    border-bottom: 1px solid #7c0000;
+}
+.order-form .oform .links {
+    color: #7c0000;
+}

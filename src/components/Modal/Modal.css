@@ -1,0 +1,21 @@
+.SummeryModal {
+    position: fixed;
+    top: calc(50vh - 25vh);
+    left: calc(50% - 15%);
+    width: 30%;
+    height: min-content;/*50vh;*/
+    background-color: #fff;
+    box-shadow: 0 0 50px lightgrey;
+    z-index: 999;
+    padding: 30px;
+    overflow: hidden;
+    transition: 1s;
+    box-sizing: border-box;
+}
+@media (max-width: 600px) {
+    .SummeryModal {
+        width: 80%;
+        left: calc(50% - 40%);
+        font-size: 12px;
+    }
+}

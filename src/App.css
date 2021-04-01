@@ -1,0 +1,11 @@
+.form-control:focus {
+    box-shadow: none;
+    border: 0;
+    border-bottom: 1px solid #AB97D2;
+}
+.btn:focus {
+    box-shadow: none;
+}
+.btn:hover {
+    transform: translateY(-2px);
+}

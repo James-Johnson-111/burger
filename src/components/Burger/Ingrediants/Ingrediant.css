@@ -1,0 +1,31 @@
+.salad {
+    width: 75%;
+    margin-left: 12.5%;
+    height: 3vh;
+    background-color: lightgreen;
+    border-radius: 30px;
+}
+
+.cheez {
+    width: 75%;
+    margin-left: 12.5%;
+    height: 3vh;
+    background-color: lightyellow;
+    border-radius: 30px;
+}
+
+.meat {
+    width: 75%;
+    margin-left: 12.5%;
+    height: 3vh;
+    background-color: brown;
+    border-radius: 30px;
+}
+
+.frenchfrize {
+    width: 75%;
+    margin-left: 12.5%;
+    height: 3vh;
+    background-color: yellow;
+    border-radius: 30px;
+}

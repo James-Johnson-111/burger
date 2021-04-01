@@ -1,0 +1,10 @@
+.panel {
+    padding: 30px 100px;
+    color: #FAEC78;
+}
+
+@media(max-width: 768px) {
+    .panel {
+        padding: 30px;
+    }
+}
